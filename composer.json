@@ -1,0 +1,19 @@
+{
+    "name": "vigihdev/code-dev-php",
+    "description": "Repo Code Php",
+    "type": "library",
+    "license": "Mit",
+    "autoload": {
+        "psr-4": {
+            "Vigihdev\\CodeDevPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VigihDev",
+            "email": "vigihdev@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
